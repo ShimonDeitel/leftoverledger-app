@@ -1,0 +1,27 @@
+{
+  "identifier": "storekit_config",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "1.99",
+      "familyShareable": false,
+      "internalID": "com.shimondeitel.leftovers.pro",
+      "localizations": [
+        {
+          "description": "Use-by reminders, waste-cost tracking, and weekly waste summary",
+          "displayName": "Leftoverledger Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.leftovers.pro",
+      "referenceName": "Leftoverledger Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
